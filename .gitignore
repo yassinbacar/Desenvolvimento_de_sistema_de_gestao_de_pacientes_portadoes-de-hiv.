@@ -1,0 +1,10 @@
+*.log
+*.lst
+*.bak
+.env
+*.pwd
+credenciais*.txt
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
